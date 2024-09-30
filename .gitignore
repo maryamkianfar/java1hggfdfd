@@ -5,6 +5,7 @@ Thumbs.db
 *.sw? 
 .#* 
 *# 
+
 *~ 
 *.sublime-* 
 **/logs
